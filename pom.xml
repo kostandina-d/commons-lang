@@ -604,6 +604,8 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+    <sonar.organization>kostandina-d</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!--
        This is also  used to generate download_xxx file name.
        To override this when generating the download page:
